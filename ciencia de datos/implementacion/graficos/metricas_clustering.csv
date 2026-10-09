@@ -1,0 +1,13 @@
+Modelo,K,Inertia,Silhouette,Davies-Bouldin
+K-Means,7,458175,0.2077,1.8797
+K-Means,8,443419,0.1922,1.6809
+K-Means,9,434446,0.1148,2.2271
+K-Means,10,426177,0.0853,2.579
+K-Means,11,417509,0.068,2.0553
+K-Means,12,409213,0.0491,1.906
+Mini-Batch K-Means,7,470578,0.1112,3.9941
+Mini-Batch K-Means,8,467103,0.0505,2.001
+Mini-Batch K-Means,9,462778,0.0003,2.761
+Mini-Batch K-Means,10,442333,0.0543,2.6081
+Mini-Batch K-Means,11,429542,0.0244,6.3475
+Mini-Batch K-Means,12,417382,0.0243,3.1145

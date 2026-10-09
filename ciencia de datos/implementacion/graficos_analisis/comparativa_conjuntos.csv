@@ -1,0 +1,11 @@
+Conjunto,Descripcion,N_cols,K,Silhouette,DB,StdTamano_%
+A_todas_16,Todas las columnas (16),16,5,0.339,0.869,17.09
+A_todas_16,Todas las columnas (16),16,6,0.2792,1.1301,14.94
+B_morfologicas_14,Sin habitat y season — morfología pura (14),14,5,0.3398,0.8711,17.2
+B_morfologicas_14,Sin habitat y season — morfología pura (14),14,6,0.2777,0.8956,11.39
+C_sombrero_tallo_13,Sombrero + Tallo + Láminas (13),13,5,0.3426,0.8722,17.72
+C_sombrero_tallo_13,Sombrero + Tallo + Láminas (13),13,6,0.3284,0.8425,14.35
+D_clave_11,11 columnas clave morfológicas,11,5,0.3356,0.8906,17.09
+D_clave_11,11 columnas clave morfológicas,11,6,0.2773,0.9155,11.56
+E_visual_11,"11 columnas visuales: forma, color, tamaño",11,5,0.2708,0.982,18.29
+E_visual_11,"11 columnas visuales: forma, color, tamaño",11,6,0.257,1.0552,11.33

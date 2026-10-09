@@ -1,0 +1,59 @@
+{
+  "n_orig_rows": 61069,
+  "n_orig_cols": 21,
+  "n_final_rows": 60923,
+  "n_final_cols": 13,
+  "n_dup": 146,
+  "drop_cols": [
+    "stem-root",
+    "veil-type",
+    "veil-color",
+    "spore-print-color"
+  ],
+  "var_exp": [
+    23.23628948417867,
+    9.623138662185267
+  ],
+  "results_5_sil": 0.34262855973162615,
+  "results_5_db": 0.8721642277857512,
+  "results_6_sil": 0.3284496255987675,
+  "results_6_db": 0.8425360240529528,
+  "sizes_6": {
+    "0": 9221,
+    "1": 4957,
+    "2": 19642,
+    "3": 21964,
+    "4": 353,
+    "5": 4786
+  },
+  "pct_6": {
+    "0": 15.1,
+    "1": 8.1,
+    "2": 32.2,
+    "3": 36.1,
+    "4": 0.6,
+    "5": 7.9
+  },
+  "sizes_5": {
+    "0": 9201,
+    "1": 28429,
+    "2": 4822,
+    "3": 1478,
+    "4": 16993
+  },
+  "pct_5": {
+    "0": 15.1,
+    "1": 46.7,
+    "2": 7.9,
+    "3": 2.4,
+    "4": 27.9
+  },
+  "img_nulos": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\img_nulos.png",
+  "img_scatter": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\img_scatter_k6.png",
+  "img_scatter_comp": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\img_scatter_comp.png",
+  "img_barras": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\img_barras_k6.png",
+  "img_metricas": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\img_metricas.png",
+  "img_kmeans_diag": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\img_kmeans_diagrama.png",
+  "OUT_DIR": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2",
+  "csv_path": "E:\\cosas\\facu\\Ciencia de Datos\\ciencia de datos-20261008T230846Z-1-001\\ciencia de datos\\implementacion\\entrega2\\dataset_clustering.csv"
+}
